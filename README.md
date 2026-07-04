@@ -1,4 +1,4 @@
-# MERN Thinkboard
+# Thinkboard
 
 Simple MERN note-taking app.
 
